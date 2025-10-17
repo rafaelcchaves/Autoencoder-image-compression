@@ -1,0 +1,4 @@
+Batch 16
+Works 8
+Time 1:14
+Loss 0.001290
