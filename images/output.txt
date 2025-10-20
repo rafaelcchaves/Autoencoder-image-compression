@@ -1,0 +1,12 @@
+| bola.png             | PSNR: 19.73 dB | SSIM: 0.4660
+| cachorro.png         | PSNR: 28.23 dB | SSIM: 0.8597
+| carro.png            | PSNR: 23.50 dB | SSIM: 0.7324
+| pessoa.png           | PSNR: 25.79 dB | SSIM: 0.8537
+| predio.png           | PSNR: 24.84 dB | SSIM: 0.7500
+| relogio.png          | PSNR: 21.34 dB | SSIM: 0.7486
+| sapato.png           | PSNR: 24.18 dB | SSIM: 0.7232
+
+==================================================
+SUMMARY: Processed 7 images.
+Average PSNR: 23.94 dB
+Average SSIM: 0.7334
